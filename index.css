@@ -2,12 +2,11 @@ body {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    background-color: black;
+    background-color: #fff;
 }
 
 .middlediv {
     background-color: #fff;
-    margin: 0 136px;
     padding-top: 0px;
     display: inline-block;
 }
@@ -29,7 +28,7 @@ body {
     font-size: 19px;
     float: left;
     margin-top: -18px;
-    margin-left: 218px;
+    margin-left: 84px;
     padding: 10px;
     text-decoration: none;
     overflow: hidden;
@@ -91,7 +90,7 @@ li {
 }
 
 .styleheadingpara {
-    margin-left: 55px;
+    margin-left: 63px;
 }
 
 .line {
@@ -101,7 +100,7 @@ li {
     height: 100%;
     margin-right: -100%;
     border-bottom: 1px solid #9e9e9e24;
-    margin-left: 55px;
+    margin-left: 63px;
 }
 
 .firstrow {

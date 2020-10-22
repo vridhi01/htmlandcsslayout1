@@ -1,21 +1,20 @@
-body {
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    background-color: black;
+}
+
+body {
+    background-color: #fff;
 }
 
 .middlediv {
     background-color: #fff;
-    margin: 0 136px;
-    padding-top: 0px;
-    display: inline-block;
 }
 
 .innerdiv {
-    background-color: #fff;
-    margin: 0 35px;
-    padding-top: 0px;
+    margin: 0 auto;
+    width: 85%;
 }
 
 .navigation {
@@ -23,133 +22,125 @@ body {
     padding: 26px 0px;
 }
 
+.stylenavigation {
+    margin: 0 auto;
+    width: 86%;
+}
+
 .navigationlink1 {
-    color: #9E9E9E;
-    display: inline;
-    font-size: 19px;
+    color: #808080d9;
+    font-size: 18px;
     float: left;
-    margin-top: -18px;
-    margin-left: 218px;
+    margin-top: -21px;
     padding: 10px;
     text-decoration: none;
-    overflow: hidden;
+    font-family: sans-serif;
 }
 
 .navigationlink2 {
-    color: #9e9e9eeb;
-    display: inline;
-    font-size: 17px;
+    color: #808080d9;
+    font-size: 15px;
     float: left;
     margin-left: 10px;
-    margin-top: -18px;
+    margin-top: -19px;
     padding: 10px;
     text-decoration: none;
+    font-family: sans-serif;
 }
 
 .navigationlink3 {
-    color: #9e9e9eeb;
-    display: inline;
-    font-size: 17px;
+    color: #808080d9;
+    font-size: 15px;
     float: left;
     margin-left: 10px;
-    margin-top: -18px;
+    margin-top: -19px;
     padding: 10px;
     text-decoration: none;
+    font-family: sans-serif;
 }
 
 .navigationlink4 {
-    color: #9e9e9eeb;
-    display: inline;
-    font-size: 17px;
+    color: #808080d9;
+    font-size: 15px;
     float: left;
     margin-left: 10px;
-    margin-top: -18px;
+    margin-top: -19px;
     padding: 10px;
     text-decoration: none;
+    font-family: sans-serif;
 }
 
 li {
     list-style-type: none;
 }
 
+.styleheadingpara {
+    margin-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #9e9e9e24;
+}
+
 .pstyle {
     display: inline;
-    color: #808080d9;
-    font-size: 25px;
-    font-weight: bold;
-    font-family: 'Roboto', sans-serif;
+    color: #808080;
+    font-size: 22px;
+    font-family: sans-serif;
 }
 
 .hstyle {
-    display: inline;
-    font-size: 34px;
+    font-size: 35px;
     color: #000000b8;
-    font-family: 'Roboto', sans-serif;
+    font-family: sans-serif;
     margin-top: 47px;
     display: inline-block;
     margin-bottom: 0px;
-}
-
-.styleheadingpara {
-    margin-left: 55px;
-}
-
-.line {
-    content: '';
-    display: inline-block;
-    width: 88%;
-    height: 100%;
-    margin-right: -100%;
-    border-bottom: 1px solid #9e9e9e24;
-    margin-left: 55px;
+    font-weight: 400;
 }
 
 .firstrow {
     width: 100%;
-    margin: 0 11px;
-    margin-top: 5px;
-    height: 250px;
+    margin-top: 18px;
+}
+
+.rpadding {
+    padding-left: 0px;
+    padding-right: 20px;
+}
+
+.lpadding {
+    padding-left: 20px;
+    padding-right: 0px;
+}
+
+.rlpadding {
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .frstdiv1 {
-    display: inline;
+    padding-bottom: 30px;
     float: left;
-    width: 29%;
-    padding: 10px;
-    margin-left: 43px;
-}
-
-.frstdiv2 {
-    display: inline;
-    float: left;
-    width: 29%;
-    padding: 10px;
-}
-
-.frstdiv3 {
-    display: inline;
-    float: left;
-    width: 29%;
-    padding: 10px;
+    width: calc(100% / 3);
 }
 
 .imgstyle {
-    width: 98%;
-    height: 209px;
+    width: 100%;
 }
 
 .headingstyle {
-    font-size: 27px;
-    color: #03A9F4;
-    font-weight: bold;
-    margin-top: 6px;
+    font-size: 23px;
+    color: #188abe;
+    margin-top: 18px;
+    font-family: sans-serif;
+    font-weight: 200;
 }
 
 .paragraphstyle {
-    font-size: 17px;
-    color: black;
-    margin-top: -20px;
-    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    color: #00000099;
+    padding-top: 10px;
+    font-family: sans-serif;
+    font-weight: 200;
 }
 
 .footer {
@@ -157,12 +148,10 @@ li {
     clear: both;
     position: relative;
     margin-top: -200px !important;
+    border-top: 1px solid #9e9e9e24;
 }
 
 .copyright {
-    padding: 32px;
-}
-
-.copyrighttext {
-    margin-left: 24px;
+    padding-top: 50px;
+    padding-bottom: 80px;
 }

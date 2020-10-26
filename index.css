@@ -14,7 +14,7 @@ body {
 
 .innerdiv {
     margin: 0 auto;
-    width: 85%;
+    width: 91%;
 }
 
 .navigation {
@@ -24,12 +24,12 @@ body {
 
 .stylenavigation {
     margin: 0 auto;
-    width: 86%;
+    width: 92%;
 }
 
 .navigationlink1 {
     color: #808080d9;
-    font-size: 18px;
+    font-size: 17px;
     float: left;
     margin-top: -21px;
     padding: 10px;
@@ -39,7 +39,7 @@ body {
 
 .navigationlink2 {
     color: #808080d9;
-    font-size: 15px;
+    font-size: 14px;
     float: left;
     margin-left: 10px;
     margin-top: -19px;
@@ -50,7 +50,7 @@ body {
 
 .navigationlink3 {
     color: #808080d9;
-    font-size: 15px;
+    font-size: 14px;
     float: left;
     margin-left: 10px;
     margin-top: -19px;
@@ -95,6 +95,7 @@ li {
     display: inline-block;
     margin-bottom: 0px;
     font-weight: 400;
+    margin-right: 5px;
 }
 
 .firstrow {
@@ -130,7 +131,7 @@ li {
 .headingstyle {
     font-size: 23px;
     color: #188abe;
-    margin-top: 18px;
+    margin-top: 14px;
     font-family: sans-serif;
     font-weight: 200;
 }
@@ -141,17 +142,87 @@ li {
     padding-top: 10px;
     font-family: sans-serif;
     font-weight: 200;
+    padding-bottom: 10px;
 }
 
 .footer {
     width: 100%;
     clear: both;
-    position: relative;
-    margin-top: -200px !important;
     border-top: 1px solid #9e9e9e24;
 }
 
 .copyright {
     padding-top: 50px;
     padding-bottom: 80px;
+}
+
+.bottom {
+    padding-bottom: 47px;
+}
+
+@media only screen and (max-width:430px) {
+    .rpadding {
+       padding-right:2px;
+    }
+    
+    .lpadding {
+        padding-left:2px
+    }
+    
+    .rlpadding {
+        padding-right: 1px;
+        padding-left: 1px;
+    }
+    .hstyle {
+        font-size: 27px;
+        margin-top: 28px;
+    }
+    .pstyle {
+        font-size: 18px;
+     }
+     .headingstyle {
+        font-size: 18px;
+        margin-top: 11px;
+    }
+    .paragraphstyle {
+        font-size: 10px;
+        padding-top: 6px;
+    }
+    .navigation {
+        padding: 20px 0px;
+    }
+    .navigationlink1 {
+        font-size: 14px;
+    }
+    .navigationlink2 {
+        font-size: 12px;
+    }
+    .navigationlink3 {
+        font-size: 12px;
+    }
+    .navigationlink4 {
+        font-size: 12px;
+    }
+
+    @media only screen and (max-width:360px) 
+     {
+        .hstyle {
+            font-size: 25px;
+        }
+        .pstyle {
+            font-size: 18px;
+         }
+         .headingstyle {
+            font-size: 18px;
+            margin-top: 11px;
+        }
+        .paragraphstyle {
+            font-size: 10px;
+            padding-top: 6px;
+        }
+        .frstdiv1 {
+            padding-bottom: 30px;
+            display: contents;
+        }
+     }
 }

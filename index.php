@@ -23,63 +23,63 @@
          </div>
          <div class="firstrow">
             <div class="frstdiv1 rpadding">
-               <img src ="700x400.png" class="imgstyle">
+               <img src ="img.png" class="imgstyle">
                <h4 class="headingstyle">
                Project Name 
                <h4>
                <p class="paragraphstyle"> Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
             </div>
             <div class="frstdiv1 rlpadding">
-               <img src ="700x400.png" class="imgstyle">
+               <img src ="img.png" class="imgstyle">
                <h4 class="headingstyle">
                Project Name 
                <h4>
                <p class="paragraphstyle"> Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
             </div>
             <div class="frstdiv1 lpadding">
-               <img src ="700x400.png" class="imgstyle">
+               <img src ="img.png" class="imgstyle">
                <h4 class="headingstyle">
                Project Name 
                <h4>
                <p class="paragraphstyle"> Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
             </div>
             <div class="frstdiv1 rpadding">
-               <img src ="700x400.png" class="imgstyle">
+               <img src ="img.png" class="imgstyle">
                <h4 class="headingstyle">
                Project Name 
                <h4>
                <p class="paragraphstyle"> Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
             </div>
             <div class="frstdiv1 rlpadding">
-               <img src ="700x400.png" class="imgstyle">
+               <img src ="img.png" class="imgstyle">
                <h4 class="headingstyle">
                Project Name 
                <h4>
                <p class="paragraphstyle"> Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
             </div>
             <div class="frstdiv1 lpadding">
-               <img src ="700x400.png" class="imgstyle">
+               <img src ="img.png" class="imgstyle">
                <h4 class="headingstyle">
                Project Name 
                <h4>
                <p class="paragraphstyle"> Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
             </div>
-            <div class="frstdiv1 rpadding" style="padding-bottom:80px">
-               <img src ="700x400.png" class="imgstyle">
+            <div class="frstdiv1 rpadding bottom">
+               <img src ="img.png" class="imgstyle">
                <h4 class="headingstyle">
                Project Name 
                <h4>
                <p class="paragraphstyle"> Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
             </div>
-            <div class="frstdiv1 rlpadding" style="padding-bottom:80px">
-               <img src ="700x400.png" class="imgstyle">
+            <div class="frstdiv1 rlpadding bottom">
+               <img src ="img.png" class="imgstyle">
                <h4 class="headingstyle">
                Project Name 
                <h4>
                <p class="paragraphstyle"> Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
             </div>
-            <div class="frstdiv1 lpadding" style="padding-bottom:80px">
-               <img src ="700x400.png" class="imgstyle">
+            <div class="frstdiv1 lpadding bottom">
+               <img src ="img.png" class="imgstyle">
                <h4 class="headingstyle">
                Project Name 
                <h4>

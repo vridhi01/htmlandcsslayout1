@@ -7,12 +7,14 @@
       <link rel="stylesheet" href="index.css">
    </head>
    <body>
-      <div class="navigation">
+   <div class="navigation">
          <div class="stylenavigation">
-            <li><a class="navigationlink1" href="#">Layout 1</a></li>
+            <ul>
+            <li><a class="navigationlink1" href="#">Layout 3</a></li>
             <li><a class="navigationlink2" href="#">About</a></li>
-            <li><a class="navigationlink3" href="#">Service</a></li>
+            <li><a class="navigationlink3" href="#">Services</a></li>
             <li><a class="navigationlink4" href="#">Contact</a></li>
+            </ul>
          </div>
       </div>
       <div class="middlediv">
@@ -22,63 +24,63 @@
             <p class="pstyle"> Secondary Text </p>
          </div>
          <div class="firstrow">
-            <div class="frstdiv1 rpadding">
+            <div class="frstdiv1 rpadding r0padding">
                <img src ="img.png" class="imgstyle">
                <h4 class="headingstyle">
                Project Name 
                <h4>
                <p class="paragraphstyle"> Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
             </div>
-            <div class="frstdiv1 rlpadding">
+            <div class="frstdiv1 rlpadding r2padding">
                <img src ="img.png" class="imgstyle">
                <h4 class="headingstyle">
                Project Name 
                <h4>
                <p class="paragraphstyle"> Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
             </div>
-            <div class="frstdiv1 lpadding">
+            <div class="frstdiv1 lpadding r0padding">
                <img src ="img.png" class="imgstyle">
                <h4 class="headingstyle">
                Project Name 
                <h4>
                <p class="paragraphstyle"> Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
             </div>
-            <div class="frstdiv1 rpadding">
+            <div class="frstdiv1 rpadding r2padding">
                <img src ="img.png" class="imgstyle">
                <h4 class="headingstyle">
                Project Name 
                <h4>
                <p class="paragraphstyle"> Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
             </div>
-            <div class="frstdiv1 rlpadding">
+            <div class="frstdiv1 rlpadding r0padding">
                <img src ="img.png" class="imgstyle">
                <h4 class="headingstyle">
                Project Name 
                <h4>
                <p class="paragraphstyle"> Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
             </div>
-            <div class="frstdiv1 lpadding">
+            <div class="frstdiv1 lpadding r2padding">
                <img src ="img.png" class="imgstyle">
                <h4 class="headingstyle">
                Project Name 
                <h4>
                <p class="paragraphstyle"> Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
             </div>
-            <div class="frstdiv1 rpadding bottom">
+            <div class="frstdiv1 rpadding r0padding bottom">
                <img src ="img.png" class="imgstyle">
                <h4 class="headingstyle">
                Project Name 
                <h4>
                <p class="paragraphstyle"> Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
             </div>
-            <div class="frstdiv1 rlpadding bottom">
+            <div class="frstdiv1 rlpadding r2padding bottom">
                <img src ="img.png" class="imgstyle">
                <h4 class="headingstyle">
                Project Name 
                <h4>
                <p class="paragraphstyle"> Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
             </div>
-            <div class="frstdiv1 lpadding bottom">
+            <div class="frstdiv1 r0padding bottom">
                <img src ="img.png" class="imgstyle">
                <h4 class="headingstyle">
                Project Name 
